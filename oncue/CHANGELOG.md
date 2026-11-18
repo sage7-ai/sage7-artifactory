@@ -1,5 +1,8 @@
 # OnCue changelog
 
+## 1.0.3 (7) · 2026-11-18
+Settings now has tabs: General, Calendars, Pro and About. About shows your version and links to support.
+
 ## 1.0.2 (6) · 2026-11-18
 Cleaner menu: icon buttons for Settings, updates and Quit, and a shorter menu bar title. Settings opens as a normal window and closes the menu.
 
