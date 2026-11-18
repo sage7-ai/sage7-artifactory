@@ -1,5 +1,8 @@
 # OnCue changelog
 
+## 1.0.5 (9) · 2026-11-18
+Settings opens on the desktop you're on.
+
 ## 1.0.4 (8) · 2026-11-18
 Settings keeps one size on every tab, and the Pro tab lists what's included.
 
