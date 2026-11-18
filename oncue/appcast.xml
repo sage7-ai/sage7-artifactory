@@ -8,6 +8,16 @@
     <description>Updates for OnCue, downloaded from sage7.ai.</description>
     <language>en</language>
     <item>
+      <title>OnCue 1.0.2</title>
+      <pubDate>Wed, 18 Nov 2026 00:22:46 -0600</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Cleaner menu: icon buttons for Settings, updates and Quit, and a shorter menu bar title. Settings opens as a normal window and closes the menu.</p>]]></description>
+      <enclosure url="https://github.com/sage7-ai/sage7-artifactory/releases/download/oncue-1.0.2-6/OnCue-1.0.2-6.zip" type="application/octet-stream"
+        sparkle:edSignature="Rurjvu/ydQHsS29xWcxhcuOwFh8ijNLAvkAwDsm+NtV5wrbirNnLBMIE7qpdbavZESuOePNmL4uOZJkIEeiYCg==" length="1599219" />
+    </item>
+    <item>
       <title>OnCue 1.0.1</title>
       <pubDate>Tue, 17 Nov 2026 23:53:50 -0600</pubDate>
       <sparkle:version>5</sparkle:version>

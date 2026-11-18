@@ -1,5 +1,8 @@
 # OnCue changelog
 
+## 1.0.2 (6) · 2026-11-18
+Cleaner menu: icon buttons for Settings, updates and Quit, and a shorter menu bar title. Settings opens as a normal window and closes the menu.
+
 ## 1.0.1 (5) · 2026-11-17
 Checks for updates every 6 hours instead of once a day.
 
