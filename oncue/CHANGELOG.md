@@ -1,5 +1,8 @@
 # OnCue changelog
 
+## 1.0.4 (8) · 2026-11-18
+Settings keeps one size on every tab, and the Pro tab lists what's included.
+
 ## 1.0.3 (7) · 2026-11-18
 Settings now has tabs: General, Calendars, Pro and About. About shows your version and links to support.
 
