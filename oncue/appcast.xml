@@ -9,6 +9,16 @@
     <language>en</language>
     <item>
       <title>OnCue 1.0</title>
+      <pubDate>Tue, 17 Nov 2026 23:41:42 -0600</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>License keys from test purchases no longer unlock Pro. Downloads now come from GitHub, so Chrome no longer blocks them.</p>]]></description>
+      <enclosure url="https://github.com/sage7-ai/sage7-artifactory/releases/download/oncue-1.0-4/OnCue-1.0-4.zip" type="application/octet-stream"
+        sparkle:edSignature="NFjeBpMhOsmqOeQWoUkcApNuthoPQb4CTqisnB//CsMmKpZAaV5ohw9bXoydZMxtQYM/2LYVNqEKQLbt5VLcAQ==" length="1587486" />
+    </item>
+    <item>
+      <title>OnCue 1.0</title>
       <pubDate>Tue, 17 Nov 2026 17:00:00 -0600</pubDate>
       <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
