@@ -1,5 +1,8 @@
 # OnCue changelog
 
+## 1.1.2 (12) · 2026-11-18
+Fixes the Join panel not appearing for a meeting that starts right after another one you just joined.
+
 ## 1.1.1 (11) · 2026-11-18
 Settings has a new Joining tab for back-to-back mode, opening meetings in their apps, and opening meetings automatically, so nothing is hidden below the fold.
 

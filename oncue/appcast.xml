@@ -8,6 +8,16 @@
     <description>Updates for OnCue, downloaded from sage7.ai.</description>
     <language>en</language>
     <item>
+      <title>OnCue 1.1.2</title>
+      <pubDate>Wed, 18 Nov 2026 15:31:49 -0600</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixes the Join panel not appearing for a meeting that starts right after another one you just joined.</p>]]></description>
+      <enclosure url="https://github.com/sage7-ai/sage7-artifactory/releases/download/oncue-1.1.2-12/OnCue-1.1.2-12.zip" type="application/octet-stream"
+        sparkle:edSignature="V0Ud4glDla63Htc7NU9k6g7QvgK2CdFUDF0xA266xCtriacsJGwUFkqczBBP3eQujHUlpJuAaagO72BIlUyeCA==" length="1682088" />
+    </item>
+    <item>
       <title>OnCue 1.1.1</title>
       <pubDate>Wed, 18 Nov 2026 13:03:40 -0600</pubDate>
       <sparkle:version>11</sparkle:version>
