@@ -8,6 +8,16 @@
     <description>Updates for OnCue, downloaded from sage7.ai.</description>
     <language>en</language>
     <item>
+      <title>OnCue 1.1</title>
+      <pubDate>Wed, 18 Nov 2026 13:00:58 -0600</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Back-to-back mode: if a call runs over, the Join panel says so and can wait until you hang up. Pro: open meetings automatically when you're free and at your Mac, and Webex meetings open in the Webex app. Recognises more meeting services, including RingCentral, Zoho Meeting and Dialpad.</p>]]></description>
+      <enclosure url="https://github.com/sage7-ai/sage7-artifactory/releases/download/oncue-1.1-10/OnCue-1.1-10.zip" type="application/octet-stream"
+        sparkle:edSignature="alzWEdIQUDGIWFVksv2h6G9NMb7OFiAmaC2UfQHM/Q8fuVZCMZ98+71J1uTB2PHTKacY8Ovt3cfbxqbc8f84DA==" length="1675133" />
+    </item>
+    <item>
       <title>OnCue 1.0.5</title>
       <pubDate>Wed, 18 Nov 2026 01:31:25 -0600</pubDate>
       <sparkle:version>9</sparkle:version>
