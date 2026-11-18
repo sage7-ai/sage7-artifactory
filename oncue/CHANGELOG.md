@@ -1,5 +1,8 @@
 # OnCue changelog
 
+## 1.1.1 (11) · 2026-11-18
+Settings has a new Joining tab for back-to-back mode, opening meetings in their apps, and opening meetings automatically, so nothing is hidden below the fold.
+
 ## 1.1 (10) · 2026-11-18
 Back-to-back mode: if a call runs over, the Join panel says so and can wait until you hang up. Pro: open meetings automatically when you're free and at your Mac, and Webex meetings open in the Webex app. Recognises more meeting services, including RingCentral, Zoho Meeting and Dialpad.
 

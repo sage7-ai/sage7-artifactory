@@ -8,6 +8,16 @@
     <description>Updates for OnCue, downloaded from sage7.ai.</description>
     <language>en</language>
     <item>
+      <title>OnCue 1.1.1</title>
+      <pubDate>Wed, 18 Nov 2026 13:03:40 -0600</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Settings has a new Joining tab for back-to-back mode, opening meetings in their apps, and opening meetings automatically, so nothing is hidden below the fold.</p>]]></description>
+      <enclosure url="https://github.com/sage7-ai/sage7-artifactory/releases/download/oncue-1.1.1-11/OnCue-1.1.1-11.zip" type="application/octet-stream"
+        sparkle:edSignature="3VcVGuL7XvpOvChNOed0cFw+RcdeAHxGw1ynFzIkOZIf9owtVbMmL7E89R8jqKI0+Rjf3TvdkbCAnaJy+u11CA==" length="1677406" />
+    </item>
+    <item>
       <title>OnCue 1.1</title>
       <pubDate>Wed, 18 Nov 2026 13:00:58 -0600</pubDate>
       <sparkle:version>10</sparkle:version>
