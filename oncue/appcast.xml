@@ -8,6 +8,16 @@
     <description>Updates for OnCue, downloaded from sage7.ai.</description>
     <language>en</language>
     <item>
+      <title>OnCue 1.2</title>
+      <pubDate>Wed, 18 Nov 2026 23:34:57 -0600</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New: time zones. OnCue asks once where the companies and people you meet with are, then shows their local time under each meeting, copies a meeting's time for everyone, and warns you when clocks change abroad. Plus a free 7-day trial of every OnCue Pro feature.</p>]]></description>
+      <enclosure url="https://github.com/sage7-ai/sage7-artifactory/releases/download/oncue-1.2-14/OnCue-1.2-14.zip" type="application/octet-stream"
+        sparkle:edSignature="arPES9D1PbWdWsAvY+8mSfuMwq0XoO4LTs4tbOecle+mX+ETSuI4VHN+KejqzP78ajOGr95bL22/6E7pk46+Cg==" length="1856920" />
+    </item>
+    <item>
       <title>OnCue 1.1.3</title>
       <pubDate>Wed, 18 Nov 2026 22:34:27 -0600</pubDate>
       <sparkle:version>13</sparkle:version>

@@ -1,5 +1,8 @@
 # OnCue changelog
 
+## 1.2 (14) · 2026-11-18
+New: time zones. OnCue asks once where the companies and people you meet with are, then shows their local time under each meeting, copies a meeting's time for everyone, and warns you when clocks change abroad. Plus a free 7-day trial of every OnCue Pro feature.
+
 ## 1.1.3 (13) · 2026-11-18
 Auto-open now also opens invites you haven't replied to (a new Joining setting, on by default), and the Join panel says why when it doesn't open a meeting.
 
