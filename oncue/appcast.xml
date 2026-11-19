@@ -8,6 +8,16 @@
     <description>Updates for OnCue, downloaded from sage7.ai.</description>
     <language>en</language>
     <item>
+      <title>OnCue 1.2.2</title>
+      <pubDate>Thu, 19 Nov 2026 13:23:52 -0600</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Invitees whose invites show only an email address now get a readable name, like Ajay Anand instead of ajay.anand@company.com.</p>]]></description>
+      <enclosure url="https://github.com/sage7-ai/sage7-artifactory/releases/download/oncue-1.2.2-16/OnCue-1.2.2-16.zip" type="application/octet-stream"
+        sparkle:edSignature="QzNRU5PO8dMXRoOwbyH+8T8ZTtT/RtV2/EzupbKU0LmJ9CbkSXRxjbDTd8E0Rg0w7GQbedPno738XHq12fvpDw==" length="1875329" />
+    </item>
+    <item>
       <title>OnCue 1.2.1</title>
       <pubDate>Wed, 18 Nov 2026 23:48:34 -0600</pubDate>
       <sparkle:version>15</sparkle:version>

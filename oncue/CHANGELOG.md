@@ -1,5 +1,8 @@
 # OnCue changelog
 
+## 1.2.2 (16) · 2026-11-19
+Invitees whose invites show only an email address now get a readable name, like Ajay Anand instead of ajay.anand@company.com.
+
 ## 1.2.1 (15) · 2026-11-18
 Clearer free trial: a Free vs Pro table in Settings, and a note when the trial starts and ends. When it ends, OnCue keeps working as a free app and nothing you set up is lost.
 
