@@ -1,5 +1,8 @@
 # OnCue changelog
 
+## 1.1.3 (13) · 2026-11-18
+Auto-open now also opens invites you haven't replied to (a new Joining setting, on by default), and the Join panel says why when it doesn't open a meeting.
+
 ## 1.1.2 (12) · 2026-11-18
 Fixes the Join panel not appearing for a meeting that starts right after another one you just joined.
 

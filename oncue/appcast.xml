@@ -8,6 +8,16 @@
     <description>Updates for OnCue, downloaded from sage7.ai.</description>
     <language>en</language>
     <item>
+      <title>OnCue 1.1.3</title>
+      <pubDate>Wed, 18 Nov 2026 22:34:27 -0600</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Auto-open now also opens invites you haven't replied to (a new Joining setting, on by default), and the Join panel says why when it doesn't open a meeting.</p>]]></description>
+      <enclosure url="https://github.com/sage7-ai/sage7-artifactory/releases/download/oncue-1.1.3-13/OnCue-1.1.3-13.zip" type="application/octet-stream"
+        sparkle:edSignature="lsNbc3vSHY2uUW5hcklAPkyQIs25UWxl8TJ48iPUxWVKhP3vyiggoiwB0xYaXDN900Sow624+WMT7f38iOQgBg==" length="1691126" />
+    </item>
+    <item>
       <title>OnCue 1.1.2</title>
       <pubDate>Wed, 18 Nov 2026 15:31:49 -0600</pubDate>
       <sparkle:version>12</sparkle:version>
