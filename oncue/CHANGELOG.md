@@ -1,5 +1,8 @@
 # OnCue changelog
 
+## 1.2.1 (15) · 2026-11-18
+Clearer free trial: a Free vs Pro table in Settings, and a note when the trial starts and ends. When it ends, OnCue keeps working as a free app and nothing you set up is lost.
+
 ## 1.2 (14) · 2026-11-18
 New: time zones. OnCue asks once where the companies and people you meet with are, then shows their local time under each meeting, copies a meeting's time for everyone, and warns you when clocks change abroad. Plus a free 7-day trial of every OnCue Pro feature.
 

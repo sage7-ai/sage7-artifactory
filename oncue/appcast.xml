@@ -8,6 +8,16 @@
     <description>Updates for OnCue, downloaded from sage7.ai.</description>
     <language>en</language>
     <item>
+      <title>OnCue 1.2.1</title>
+      <pubDate>Wed, 18 Nov 2026 23:48:34 -0600</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Clearer free trial: a Free vs Pro table in Settings, and a note when the trial starts and ends. When it ends, OnCue keeps working as a free app and nothing you set up is lost.</p>]]></description>
+      <enclosure url="https://github.com/sage7-ai/sage7-artifactory/releases/download/oncue-1.2.1-15/OnCue-1.2.1-15.zip" type="application/octet-stream"
+        sparkle:edSignature="AAd2fPUthoJSJSEDxinvuzZvf8vyPemJLPKp6yLrZBX6A+QEZNeGh7gsPIyRCwMM9JQxUyDcfTWc7Pz2n5SNCQ==" length="1871514" />
+    </item>
+    <item>
       <title>OnCue 1.2</title>
       <pubDate>Wed, 18 Nov 2026 23:34:57 -0600</pubDate>
       <sparkle:version>14</sparkle:version>
