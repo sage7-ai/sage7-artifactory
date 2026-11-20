@@ -8,6 +8,16 @@
     <description>Updates for OnCue, downloaded from sage7.ai.</description>
     <language>en</language>
     <item>
+      <title>OnCue 1.2.3</title>
+      <pubDate>Fri, 20 Nov 2026 16:42:27 -0600</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The Website, Privacy and license-key links now go to OnCue's new home, useoncue.app.</p>]]></description>
+      <enclosure url="https://github.com/sage7-ai/sage7-artifactory/releases/download/oncue-1.2.3-17/OnCue-1.2.3-17.zip" type="application/octet-stream"
+        sparkle:edSignature="4yvwObuzwUDBRBeJC/LR6I/o8R+lmwYgvpv2y66ffd4vHkmGg22gi5QKXl/QYIEqqbKgtNgUJ0dZi5TuYiqjBQ==" length="1875293" />
+    </item>
+    <item>
       <title>OnCue 1.2.2</title>
       <pubDate>Thu, 19 Nov 2026 13:23:52 -0600</pubDate>
       <sparkle:version>16</sparkle:version>

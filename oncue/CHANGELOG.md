@@ -1,5 +1,8 @@
 # OnCue changelog
 
+## 1.2.3 (17) · 2026-11-20
+The Website, Privacy and license-key links now go to OnCue's new home, useoncue.app.
+
 ## 1.2.2 (16) · 2026-11-19
 Invitees whose invites show only an email address now get a readable name, like Ajay Anand instead of ajay.anand@company.com.
 
