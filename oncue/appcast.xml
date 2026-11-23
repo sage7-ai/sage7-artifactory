@@ -8,6 +8,16 @@
     <description>Updates for OnCue, downloaded from sage7.ai.</description>
     <language>en</language>
     <item>
+      <title>OnCue 1.2.4</title>
+      <pubDate>Mon, 23 Nov 2026 12:08:47 -0600</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The menu keeps your meetings in view: trial status and Unlock Pro now sit in a small pill at the bottom, and notices are one compact line.</p>]]></description>
+      <enclosure url="https://github.com/sage7-ai/sage7-artifactory/releases/download/oncue-1.2.4-18/OnCue-1.2.4-18.zip" type="application/octet-stream"
+        sparkle:edSignature="BIpBGHurr2oXJkM9z9rpL/y8/CXDe4uyljs5GuCZ3UDXQ7x0Pb2ohVPvJvg0MImNOvvDm0wRipAOcDruQHyMBg==" length="1870786" />
+    </item>
+    <item>
       <title>OnCue 1.2.3</title>
       <pubDate>Fri, 20 Nov 2026 16:42:27 -0600</pubDate>
       <sparkle:version>17</sparkle:version>

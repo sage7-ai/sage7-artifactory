@@ -1,5 +1,8 @@
 # OnCue changelog
 
+## 1.2.4 (18) · 2026-11-23
+The menu keeps your meetings in view: trial status and Unlock Pro now sit in a small pill at the bottom, and notices are one compact line.
+
 ## 1.2.3 (17) · 2026-11-20
 The Website, Privacy and license-key links now go to OnCue's new home, useoncue.app.
 
