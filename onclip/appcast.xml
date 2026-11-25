@@ -7,5 +7,15 @@
     <link>https://useonclip.app</link>
     <description>Updates for OnClip, downloaded from sage7.ai.</description>
     <language>en</language>
+    <item>
+      <title>OnClip 1.0</title>
+      <pubDate>Wed, 25 Nov 2026 14:04:48 -0600</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>First release. OnClip keeps a full clipboard history, catches API keys, tokens and passwords you copy, seals them in an encrypted vault, shows only a hint, and hands them back with Touch ID. Free, with a 7-day trial of OnClip Pro (one-time purchase).</p>]]></description>
+      <enclosure url="https://github.com/sage7-ai/sage7-artifactory/releases/download/onclip-1.0-1/OnClip-1.0-1.zip" type="application/octet-stream"
+        sparkle:edSignature="gsoEzKZnbmLMRGI2jYQy9mGtSQOcH9VdkmFnR9K/hidWCGyrU+tbVuYA50VdQlr3LqcIxM8TGYzLbWeCxwk6Aw==" length="1751857" />
+    </item>
   </channel>
 </rss>
