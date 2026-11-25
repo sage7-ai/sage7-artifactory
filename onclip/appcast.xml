@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- OnClip (sage7.ai download) update feed for Sparkle. Newest item first.
+     Written by onclip/scripts/release-direct.sh; do not edit by hand. -->
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>OnClip</title>
+    <link>https://useonclip.app</link>
+    <description>Updates for OnClip, downloaded from sage7.ai.</description>
+    <language>en</language>
+  </channel>
+</rss>
